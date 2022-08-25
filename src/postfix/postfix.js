@@ -1,7 +1,5 @@
 const Stack = require('../lib/stack')
 
-const Stack = require('../lib/stack')
-
 const precedence = {
 	'+': 0,
 	'-': 0,
